@@ -15,5 +15,6 @@ Naan-Mudhalvan is a web-based project aimed at providing valuable resources and 
 To set up the project locally, follow these steps:
 
 1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/mSanjaymarimuthu/Naan-Mudhalvan.git
+   ```bash[
+   git clone https://github.com/mSanjaymarimuthu/Naan-Mudhalvan.git](https://github.com/mSanjaymarimuthu/NM/edit/main/README.md
+)
